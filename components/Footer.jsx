@@ -40,7 +40,7 @@ export const Footer = () => (
           as="a"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://api.whatsapp.com/send/?phone=0651960718"
+          href="https://api.whatsapp.com/send/?phone=33651960718"
           aria-label="Whatsapp"
           icon={<FaWhatsapp fontSize="1.25rem" />}
         />

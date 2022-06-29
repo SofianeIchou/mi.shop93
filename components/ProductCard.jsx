@@ -60,7 +60,7 @@ export const ProductCard = (props) => {
           Voir le produit
         </Link>
         <ReactWhatsapp
-          number="0651960718"
+          number="33651960718"
           message={`Je souhaite ${name} au prix de ${price}€`}
         >
           <Box

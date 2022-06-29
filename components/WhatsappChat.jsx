@@ -5,7 +5,7 @@ import "react-whatsapp-widget/dist/index.css";
 export const WhatsAppChat = () => (
   <WhatsAppWidget
     placeholder="Écrivez votre message"
-    phoneNumber="0651960718"
+    phoneNumber="33651960718"
     message="Bonjour, une question ? Rendez-vous sur Whatsapp 😉"
     textReplyTime="Réponse rapide"
     companyName="Mi.Shop93"

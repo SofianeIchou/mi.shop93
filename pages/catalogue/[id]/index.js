@@ -52,7 +52,7 @@ const Product = ({ produit }) => {
           <Text mt="10%">{description}</Text>
           <Stack align="left" mt="5%">
             <ReactWhatsapp
-              number="0651960718"
+              number="33651960718"
               message={`Je souhaite ${name} au prix de ${price}€`}
             >
               <Box
