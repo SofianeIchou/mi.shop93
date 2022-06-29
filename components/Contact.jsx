@@ -41,14 +41,14 @@ export const Contact = () => (
       </Box>
       <Box w="250px">
         <Link
-          href="https://api.whatsapp.com/send/?phone=33651960718"
+          href="https://wa.me/33651960718"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Image src="/img/whatsapp-logo.svg" boxSize="250px" mb="25px" />
         </Link>
         <Text fontWeight="700" textAlign="center" fontSize="3xl">
-          33651960718
+          0651960718
         </Text>
         <br />
         <Text fontSize="md" textAlign="center">
