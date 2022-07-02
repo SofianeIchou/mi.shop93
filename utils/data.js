@@ -34,7 +34,7 @@ export const products = [
     name: "Lacoste Noir",
     currency: "EUR",
     price: 60,
-    imageUrl: "/img/lacoste-black.png",
+    imageUrl: "/img/lacoste-noire.png",
     images: [],
     description:
       "Pour commander cette article clique sur Commander Via Whatsapp.",
